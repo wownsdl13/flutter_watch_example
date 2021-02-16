@@ -1,6 +1,6 @@
 # watch
 
-A new Flutter project.
+make watch from scratch using flutter ! :)
 
 ## Getting Started
 
