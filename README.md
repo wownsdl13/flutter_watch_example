@@ -2,6 +2,8 @@
 
 make watch from scratch using flutter ! :)
 
+youtube explain : https://www.youtube.com/watch?v=ahfJhd_XMzU&t=2325s
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
